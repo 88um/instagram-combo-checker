@@ -17,7 +17,7 @@
 
 **Iterates through combos.txt and tries logging into each line**
 
-**Fully asynchronous and threaded with asyncio futures**
+**Fully asynchronous and threaded with asyncio futures; Speed will depends on your machine but on avg 200-300 login attempts per minute**
 
 **Discord linked; Will notify you when a page has successfully been broken. make sure to enter your webhook in the webhook string**
 
