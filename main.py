@@ -2,13 +2,11 @@ import secrets, uuid, random,  time,os
 from os import name
 try:
     import asyncio, requests
-    from halo import Halo
 except:
-    os.system('pip install halo')
     os.system('pip install asyncio')
     os.system('pip install requests')
     import asyncio, requests
-    from halo import Halo
+   
 
 letters1 = 'abcdefghijklmnopqrstuvwxyz'
 characters = 'abcdefghijklmnopqrstuvwxyz._1234567890'
