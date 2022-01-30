@@ -9,7 +9,7 @@
 
 # Combo List Generator:
 
-**Iterates through both the username list and the password list, creating as many possible combinations as it can.**
+**Iterates through both the username list and the password list, creating as many combinations as possible.**
 
 **Non-threaded so large lists could take some time**
 
