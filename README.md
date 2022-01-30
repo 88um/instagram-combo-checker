@@ -19,7 +19,7 @@
 
 **Fully asynchronous and threaded with asyncio futures; Speed will depends on your machine but on avg 200-300 login attempts per minute**
 
-**Discord linked; Will notify you when a page has successfully been broken. make sure to enter your webhook in the webhook string**
+**Discord linked; Will notify you when a page has successfully been broken. make sure to enter your webhook in the webhook file**
 
 **Tool will also create new files after cracking a page**
 
